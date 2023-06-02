@@ -89,9 +89,7 @@ function searchProducts(term) {
                 </div>
             </div>`;
     }
-    else{
-      cartoona=`<p class="noproblem">لا يوجد مشكلة بهذا الاسم</p>`
-    }
+    
   }
   document.getElementById("cardProblem").innerHTML = cartoona;
 }
