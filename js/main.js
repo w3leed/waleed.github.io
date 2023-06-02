@@ -7,7 +7,7 @@ var problems = [
    
   },
   {
-    img: "../images/background.jpeg",
+    img: "../images/slider1.png",
     vid: "../video/helpp.mp4",
     question: "                                       مشكلة عدم وجود ايقونه فينيكال ",
     answer: "فى حالة عدم وجود ايقونه فينيكال الرجاء التواصل مع كيرليس",
